@@ -25,15 +25,8 @@ Mediante la implementación del patrón de diseño Singleton crearemos una aplic
 
 ### Ejecucion
 
-Preferir que la IDE detecte el proyecto Java y ejecutar desde ahí.  Usar estos comandos solo en caso de que no:
+### Ejecucion
 
-```
-cd app/build/classes/java/main
-java oscarblancarte.ipd.singleton.SingletonMain
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* Abra en el Editor la clase principal y de clic sobre el botón Play.
 
-```
-### Home (Codespaces)
-```
-cd /workspaces/dp-singleton
-
-```
