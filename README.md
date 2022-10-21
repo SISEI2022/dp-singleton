@@ -25,8 +25,6 @@ Mediante la implementación del patrón de diseño Singleton crearemos una aplic
 
 ### Ejecucion
 
-### Ejecucion
-
 * Cargue las Extensiones Java de VS Code correcta y completamente.
 * Abra en el Editor la clase principal y de clic sobre el botón Play.
 
