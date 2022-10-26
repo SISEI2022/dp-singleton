@@ -52,3 +52,8 @@ docker tag japp:latest ricardoqm/sisei-singleton:latest
 docker push ricardoqm/sisei-singleton:latest
 
 ```
+
+### Levantando el contenedor Docker-Java a partir de la imagen disponible en Docker Hub
+```
+docker run ricardoqm/sisei-singleton:latest
+```
