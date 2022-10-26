@@ -41,3 +41,14 @@ docker build -t japp .
 ```
 docker run japp
 ```
+### Subiendo la imagen al Docker Hub
+
+```
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+** Ejemplo:
+docker tag japp:latest ricardoqm/sisei-singleton:latest
+docker push ricardoqm/sisei-singleton:latest
+
+```
