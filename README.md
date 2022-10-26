@@ -40,7 +40,7 @@ Mediante la implementación del patrón de diseño Singleton crearemos una aplic
 docker build -t japp .
 
 ```
-### Ejecuntando contenedor Docker
+### Levantando el contenedor Docker-Java a partir de la imagen creada localmente
 
 ```
 docker run japp
