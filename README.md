@@ -31,7 +31,7 @@ Mediante la implementación del patrón de diseño Singleton crearemos una aplic
 ### Generando el archivo JAR
 
 * Importe el proyecto Java a VS Code.
-* En la ventana JAVA PROJECTS de clic en **Export Jar**
+* En la ventana ```JAVA PROJECTS``` de clic en ```Export Jar```
 
 ### Construyendo imagen Docker
 
